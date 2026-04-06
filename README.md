@@ -11,3 +11,5 @@ If you meet any error while running the project, check the options bellow. And i
 Node verion: v18 or later
 
 OS: Mac, Linux, Windows(An unexpected issue may arise)
+
+- Built as part of a backend technical assessment to demonstrate blockchain integration within an existing Node.js codebase.
